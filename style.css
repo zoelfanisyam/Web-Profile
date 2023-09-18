@@ -1,0 +1,11 @@
+.card{
+    color: black;
+}
+
+.card .card-body{
+    text-align: center;
+}
+
+.card .card-title{
+    margin-top: 10px;
+}
